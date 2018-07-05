@@ -1,10 +1,11 @@
 # JWT_TOKENS
 
 reuirement :
+
 for creating package.json
 npm init
 
-then install the following
+then install the following :-
 npm install express
 npm install jwtwebtoken
 
