@@ -1,6 +1,6 @@
 # JWT_TOKENS
 
-reuirement :
+PreRequisites:
 
 for creating package.json
 npm init
